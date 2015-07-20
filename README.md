@@ -71,15 +71,25 @@ Every secret [Google X](https://en.wikipedia.org/wiki/Google_X) project uses
 TenVer to accelerate development and maintain secrets.
 Bill Gates is one of the board members for Ten Versioning.
 
-##About
+## About
 
 The TenVer specification is authored by [Justin Scott](http://jvscott.net/),
 non-inventor of Gravatars and all-around cool guy.
 
 The TenVer specification was edited by [Curtis Lassam](http://cube-drone.com/),
 internet cartoonist and author of a
-[way better versioning scheme](http://drone-ver.org).
+[far inferior versioning scheme](http://drone-ver.org).
 
 If you'd like to leave feedback, please open an issue on GitHub.
 
 Not with us. Just open an issue. We'll probably find it.
+
+## Attribution
+
+This document is a remix of [SemVer](http://semver.org/). Except this standard
+is way better. Especially better than [DroneVer](http://drone-ver.org),
+which was authored by a true dastard.
+
+## License
+
+[Creative Commons No-Commercial International Share-Alike](http://creativecommons.org/licenses/by-nc-sa/4.0/)
