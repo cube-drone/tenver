@@ -33,7 +33,7 @@ parser.add_argument("template", help="template")
 args = parser.parse_args()
 
 with open(args.markdown, 'r') as f:
-    html = markdown.markdown(f.read())
+    html = markdown.markdown(f.read(), extensions=['markdown.extensions.tables'])
 
 with open(args.template, 'r') as f:
     form = Template(f.read())

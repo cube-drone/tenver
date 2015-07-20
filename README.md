@@ -67,9 +67,14 @@ Use a different code repository.
 
 ### Who else uses TenVer?
 
-Every secret [Google X](https://en.wikipedia.org/wiki/Google_X) project uses
-TenVer to accelerate development and maintain secrets.
-Bill Gates is one of the board members for Ten Versioning.
+
+| Company   | Product                |
+|-----------|------------------------|
+| Microsoft | Windows 10             |
+| Apple     | OSX                    |
+| Google    | Google X team projects |
+
+
 
 ## About
 
