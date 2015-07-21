@@ -9,15 +9,15 @@ manage your releases as [laid out in this comic](http://curtis.lassam.net/comics
 1. MAJOR is incremented when you feel like you've added something cool.
 2. MOOD is how you felt when you released this version.
 3. ISSUES is the number of open GitHub issues against your project.
-4. SOCIAL is the number of GitHub forks & favourits of your project.
+4. SOCIAL is the number of GitHub forks & favourites of your project.
 5. DICTIONARY is a random dictionary word.
 6. UNIXTIME is the unix time, and
 7. SEVEN is always the number seven (7).
 
 ## Introduction
 
-In the world of software management there exists a dread place
-called "San Francisco" The bigger your system grows and the more
+In the world of software management, there exists a dread place
+called "San Francisco." The bigger your system grows and the more
 packages you integrate into your software, the more likely you are
 to find yourself, one day, in this pit of despair.
 
@@ -75,7 +75,7 @@ by a short paragraph describing your summer at camp. Your summer at camp
 SHOULD HAVE been MAGICAL.
 3. Precedence refers to how versions are compared to each other when ordered.
 When making precedence calculations, ALWAYS discard everything except
-for the unix time and sort by THAT.  It is NOT RECOMMENDED that you use
+for the Unix time and sort by THAT. It is NOT RECOMMENDED that you use
 the random dictionary word instead, but it would probably be MORE EXCITING.
 11. ALWAYS [I wanna be with you and make believe with you](https://www.youtube.com/watch?v=eSMeUPFjQHc).
 
