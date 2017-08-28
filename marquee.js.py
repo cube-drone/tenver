@@ -8,8 +8,6 @@ A microframework for creating unambitious web applications.
 
 What _isn't_ marquee.js?
 
-First of all, Marquee.js is not a JS thing. It's a python thing.
-
 Marquee.js is a library for very quickly turning
 a markdown file into a webpage, paying as little attention as possible
 to things like 'features' or 'advanced functionality' or 'working'.
