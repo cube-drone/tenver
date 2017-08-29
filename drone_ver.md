@@ -3,7 +3,7 @@
 ## Summary
 
 Given a version number MAJOR.MOOD.ISSUES.SOCIAL.DICTIONARY.UNIXTIME.SEVEN,
-manage your releases as [laid out in this comic](http://curtis.lassam.net/comics/cube_drone/161.gif)
+manage your releases as [laid out in this comic](https://threepanel.com/t/cube-drone/18/71?u=cube_drone)
 :
 
 1. MAJOR is incremented when you feel like you've added something cool.
@@ -103,11 +103,6 @@ to your coding in peace, never again e-mailing you at 7AM on a Saturday.
 
 That is really more of a comment than a question.
 
-### I hear TenVer is good. Why shouldn't I use that?
-
-[TenVer](http://tenver.org) is a different standard for versioning
-that is incompatible with Drone-Ver and therefore sorely lacking.
-
 ### What about SemVer? Isn't that a practical, no-nonsense standard?
 
 [SemVer](http://semver.org)? Never heard of it.
@@ -148,9 +143,8 @@ If you'd like to leave feedback, I'm sure you'll find a way.
 ## Attribution
 
 This document is a remix of [SemVer](http://semver.org/). Except this standard
-is way better. Especially better than [TenVer](http://tenver.org),
-which was authored by a real scoundrel.
+is way better.
 
 ## License
 
-[Creative Commons No-Commercial Closed-Captioned International Share-Alike](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Creative Commons No-Commercial Closed-Captioned International House of Pancakes Share-Alike](http://creativecommons.org/licenses/by-nc-sa/4.0/)
