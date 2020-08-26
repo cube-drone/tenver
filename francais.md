@@ -29,7 +29,7 @@ bonjour bonjour bonjour bonjour, bonjour bonjour bonjour bonjour bonjour bonjour
 bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour
 bonjour. bonjour bonjour bonjour bonjour
 [Bonjour](http://semver.org)
-bonjour [Bonjour](http://drone-ver.org)
+bonjour [Bonjour](https://developer.apple.com/bonjour/)
 bonjour bonjour bonjour bonjour bonjour "1.0.0-alpha+001, 1.0.0+20130313144700",
 bonjour "3.gassy.10.3.mayonnaise.1437361913.7",
 Ten Versioning bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour
@@ -62,7 +62,7 @@ bonjour bonjour bonjour Gravatars bonjour bonjour.
 
 Bonjour TenVer bonjour bonjour bonjour [Curtis Lassam](http://cube-drone.com/),
 bonjour bonjour bonjour bonjour
-[bonjour](http://drone-ver.org).
+[bonjour](https://developer.apple.com/bonjour/).
 
 Bonjour bonjour bonjour bonjour bonjour GitHub.
 

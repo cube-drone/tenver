@@ -3,7 +3,7 @@
 ## Summary
 
 Given a version number MAJOR.MOOD.ISSUES.SOCIAL.DICTIONARY.UNIXTIME.SEVEN,
-manage your releases as [laid out in this comic](https://threepanel.com/t/cube-drone/18/71?u=cube_drone)
+manage your releases as [laid out in this comic](https://cube-drone.com/#versioning-schemes)
 :
 
 1. MAJOR is incremented when you feel like you've added something cool.
@@ -125,6 +125,11 @@ I can tell that you are a _software developer_.
 
 No. Emphatic no. Do I look like I have the money to register _two_ domains?
 
+
+### What about Tenver? Why not always just use Version 10?
+
+That is covered by a [different spec](http://tenver.cube-drone.com) but it is still a pretty okay way to do things.
+
 ### What do I do if I accidentally release a backwards incompatible change?
 
 Rejoice. To embrace Drone-Ver is to embrace chaos itself.
@@ -135,7 +140,7 @@ With gusto.
 
 ##About
 
-The Drone-Ver specification was authored by [Curtis Lassam](http://cube-drone.com/),
+The Drone-Ver specification was authored by [Curtis Lassam](https://cube-drone.com/),
 internet cartoonist and internet gadabout.
 
 If you'd like to leave feedback, I'm sure you'll find a way.
