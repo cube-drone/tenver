@@ -29,7 +29,7 @@ As the product evolves, it will be easier for people to
 contribute due to the removal of conversation for version
 increments. While popular systems like
 [Semantic Versioning](http://semver.org)
-or [Drone Versioning](http://drone-ver.org)
+or [Drone Versioning](http://dronever.cube-drone.com)
 can create complex versions like "1.0.0-alpha+001, 1.0.0+20130313144700",
 or "3.gassy.10.3.mayonnaise.1437361913.7",
 Ten Versioning will convey the same information for the same code with a
